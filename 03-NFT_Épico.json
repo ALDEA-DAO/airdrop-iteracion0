@@ -1,0 +1,126 @@
+{
+    "type": "tx",
+    "title": "ADA Sending Demo",
+    "description": "A GameChanger Script Demo. https://gamechanger.finance/ . The output key allows you to define multi-asset transaction outputs. In Cardano assets are defined by a policyId and an assetName, for ADA we use 'ada' in both cases. Replace addresses to avoid donating us, but if you can, donate so we can keep building for you",
+    "outputs": {
+        "addr1q9fv79qm8r6prhqfjjn77ah39dyz0ztyr6kp78pghy7ww57xfn6nt0msg0assja0xpwgmu5yjla4cfaewx5es6xtf7wqkallet": [
+            {
+                "quantity": "81250000000",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q8lpdalvggvaaljweqp9pfk952gykpwmaz27v622p8pqw6rpdd6gtsapd2phtjwptutvtqv5ewswtm7mxq2wdyr20adscv2hlr": [
+            {
+                "quantity": "81250000000",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qx3t8kk5jdvd06kh2cuxx57z8jt89mpgjez2xg3f9n86natkxr4psrwghrgufxxgut4f80ptqhhqcledfq69egftydeqnhukxr": [
+            {
+                "quantity": "81250000000",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyja75e9uyg3wjfjuch689nf5cu6d06qjayd53w7amxstj0gk3vkryxllsarksh5frrqt3gpec7sz9lvwrcgzpxn4sjqy36edd": [
+            {
+                "quantity": "81250000000",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyrgwj5ydz4srwf26rcxx0mq8mfq4xs2p5pxwlw6w32fau0stmk22tztdy0nk4hpfpwzmp54y5culsysg9ghh4wmd9aqdz3n4k": [
+            {
+                "quantity": "81250000000",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q9qugvckzeunjh2xgv3wk5frfa8vjhwglztfa58mk6ayfat86as7svk0amazuxe2hurlx95s56c7mg8var2a8nxsywqqpnaxvx": [
+            {
+                "quantity": "81250000000",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q9qsska6verqmn78agsuwqmrf35ucqfs9wv2d26ajpd8dtvjlsulgj8sr2552vmz99z2k0cedg7wheg0lgkvv63g3cus28paer": [
+            {
+                "quantity": "81250000000",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qy3zlksqhdphpsy92cln76fesx83adsa45qcguj0ck9dmrlqjgr2uwmzzxzd5rv93g97ys9q3v8cg08vakhhfzztqq8qhjzcwr": [
+            {
+                "quantity": "81250000000",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q8xwy0qak8q7h43nf3f5m0sh9te2uenmvk0qzncw06pm2zv98s6gxxwmtp4jyt9am9u3gsa0n8a0k7h8ck73wwp3n0ss4de38g": [
+            {
+                "quantity": "81250000000",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q9t3uvghlrjv0dykg6hfmdmmx8m6537qmx5y9vck2vy7axvtlhjpatc0zryr2099njdmy08j0f6n7d089lw03y73j7tqf9lv7m": [
+            {
+                "quantity": "81250000000",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qx0nwzvcxrukclxn4y375etud2smxjq9pxld942fv0t5wy9f490w3pwhttnjehun4f2ez5twxna7ree9hds3h8jvwkes99ysza": [
+            {
+                "quantity": "81250000000",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyvhdcvr2zqtqmehfq4fkyx844c02wf3xyzevfnkqf2c2vs2gsgk5f8zh0ecuy8hcejsrlacvjr6hznhd80end9c0c3q9ghn87": [
+            {
+                "quantity": "81250000000",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyw9vcatnl5lux4ckkdsdhpzjtnaqpnryuu2qq3puh5xk45tykgsvuhcnmur78g2jhyxk4v4s8mm7gl3qylcyw0eujgsjetk8w": [
+            {
+                "quantity": "162500000000",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qxxnzek0tskfr60pw8839y2dcrnvzswf5yepy4ak8mgwxdjwxf34umqttqpt22fa8smax9j4kh8wry44vxgcj37s5s3sg0h7ry": [
+            {
+                "quantity": "81250000000",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qy9lsv8p3pdvae9jwuanwadr7dmymp2clx8jkh02pkchwg5lv508hjm7wpcl8t48xcjjk4xlfy3vn7tlax6zjry9h2hsylmye3": [
+            {
+                "quantity": "81250000000",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q84pv0xj2gecn98fhktxrjv6l2qul02gaz74fy4ru0y7feg2gsgk5f8zh0ecuy8hcejsrlacvjr6hznhd80end9c0c3q9mh44y": [
+            {
+                "quantity": "81250000000",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qx7wym9x5gg2yazzs96alrf87z9au37fxn2u7kfj56pd2ac2gsgk5f8zh0ecuy8hcejsrlacvjr6hznhd80end9c0c3qj6admt": [
+            {
+                "quantity": "81250000000",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ]
+    }
+}
