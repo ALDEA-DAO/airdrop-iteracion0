@@ -1,0 +1,91 @@
+{
+    "type": "tx",
+    "title": "ADA Sending Demo",
+    "description": "A GameChanger Script Demo. https://gamechanger.finance/ . The output key allows you to define multi-asset transaction outputs. In Cardano assets are defined by a policyId and an assetName, for ADA we use 'ada' in both cases. Replace addresses to avoid donating us, but if you can, donate so we can keep building for you",
+    "outputs": {
+        "addr1qy4lzzwe056hm33e3k2v2r9896nv0r765uaa63lj88cljgnpdd6gtsapd2phtjwptutvtqv5ewswtm7mxq2wdyr20adsapf2kk": [
+            {
+                "quantity": "55714285710",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q8j3ft3peqwqzm2skkanpyw9hvqqsusm6e9ae8plpgpldwgyat4aecqpekj9tf97flthd4xhw50dkpsv9yfy3w9ugnxszg0nkn": [
+            {
+                "quantity": "55714285710",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qx842vvmjy5pwc836v0rhvum7h2un6q7enqsasr26w80hpa8e4zjulv9pwnj70n99uae4px09g9y4flkmr5lllxcjxnslmruxz": [
+            {
+                "quantity": "55714285710",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qxgz9ev5xz46m30nf5uug8twnrwcj4pey6pwe4mzvvqkpv44d4shu0jz2qfvjp3xash6ykpcz7nvwgq7r9esejknwz8q4mw4q6": [
+            {
+                "quantity": "55714285710",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q9lwty96eg2f7u59aaj8nh07fq6gj33ch322kfvu2r3ueeg0yamfmahvdrrlclva5anzv82uu0ev324n5xxw7t7uxetqwpz8lc": [
+            {
+                "quantity": "55714285710",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q968xz75gawk7s698p9wtc9gas546nny76sfrve5429utres3djhsc6spf0vepqgu0tcqduakv46l5rkrwqjurlzzm7spvagyq": [
+            {
+                "quantity": "55714285710",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyw9vcatnl5lux4ckkdsdhpzjtnaqpnryuu2qq3puh5xk45tykgsvuhcnmur78g2jhyxk4v4s8mm7gl3qylcyw0eujgsjetk8w": [
+            {
+                "quantity": "167142857130",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyujxvyhpj72esq6me78wk6n5cjcfj5qf0egdkylf5dykhtpdd6gtsapd2phtjwptutvtqv5ewswtm7mxq2wdyr20adsyjr5xw": [
+            {
+                "quantity": "55714285710",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q84cjxur7z66l985qjz87h68g88fjpmmzh7dn2f3tdtawj7vnuemxr9mhp9m6e70vrekydr4kxqmrjku8aekneq7ye8s947x3f": [
+            {
+                "quantity": "55714285710",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qxzrvpvqz206lnl0xcmpvg7lxqqmr0ee32twswxspf29uc89hzc5q00t5p20fy0j0cvph9rzntsf2ve6mdcpgs4s4alqn06v74": [
+            {
+                "quantity": "55714285710",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyxzy6c4me96ga9xkexrtsvhp5z239ywvl0ungcgdqx8ujg6j5a8jdh46vjsle5ds5d9t8k0vjw0jqvjpete3c85m27s4zs0xj": [
+            {
+                "quantity": "55714285710",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qy0sskkl7tyck6eynvsxcsr2f9hs93zjh5akemx40tw2ywe3au6pxmx2qxgl2rxwfp9npe0ndm8hdz2mvrlfue03sgpshcc20x": [
+            {
+                "quantity": "55714285710",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ]
+    }
+}
