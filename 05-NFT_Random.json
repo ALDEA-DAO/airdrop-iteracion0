@@ -1,0 +1,483 @@
+{
+    "type": "tx",
+    "title": "ADA Sending Demo",
+    "description": "A GameChanger Script Demo. https://gamechanger.finance/ . The output key allows you to define multi-asset transaction outputs. In Cardano assets are defined by a policyId and an assetName, for ADA we use 'ada' in both cases. Replace addresses to avoid donating us, but if you can, donate so we can keep building for you",
+    "outputs": {
+        "addr1q8rylxclfa4655llgea0sj8vnh2xf3q4vyj3jd3982fsnkk4s6wa5cwgl445h3xuj5ej63anvvprszw6np9cfmwc3wgs4t8402": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qxlyx7vfjtvlgx5s3gn4m3fg09zkqggfmmqh5z9gzncckay4ndr7swwtcjaep53u4w6qea0zv6k8kv28tkdrsja8n29q0scjk8": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qxyduvh2nnhgpxw7kq2funvjqvtc7y93dzlrlft0rr2pzctpdd6gtsapd2phtjwptutvtqv5ewswtm7mxq2wdyr20ads8kddjp": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q8nekq6ktvhc9mrflhwq7ws5k24704ptwvkj7m74zl6ft2ntav86sqsfxyanfcq62yarewag2jtj6uewltfnqmpnxcjsht6dt7": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q8tzahl5pwfaqtsv5tvwr0k7vu99ru7cqwkxxgwg7qg0fadf490w3pwhttnjehun4f2ez5twxna7ree9hds3h8jvwkes56ylx5": [
+            {
+                "quantity": "13928571428",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qxcry883yl7fmg8jm9py0ncxuqx3gch6yhwnph3hhnvnmflmpnw4thvr60tat5ddwcjr0098tfej2063kwam97eemjzsywlsax": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qx6xfk600wvmktswegzggcglk70zpapdtm652ly0alevksapg0a2pfuqqst209hsm0h9g2ktnjuy3c0apvjylgf9z0hq5v7st4": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyv0g93e02ny7rll5hzqd5mz39merlxa3hyg0c5vsn02g3gqt7x5jq3h7s0n5fjsh5l8ze3tv9ltvstkr9dghvsg53ps5msufw": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q9n9v9smmtv8a4kyg3ugdjvhj0ncqxslxgzvuf02j8c02t79435nk2zrg9a3yxx0rumzj7wrkgquhz590ukv3z9mfdaspntlt4": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qxynkk060lfh2df8ckwlevzm92h4fdusaah6f5kefzxkc8u73ssf4cs64g4p7gkem3jwk2p54y8czuwp3lgacdlsw9qs6ypyxy": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qysrwwcjnpvl75hl2zpeyr2apm9rdyvcn3pz843a8xm4qarkxr4psrwghrgufxxgut4f80ptqhhqcledfq69egftydeqlh6vq5": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q8c939l0g5hn2j02mmjw5e7yznvrr8s2jfx59m96sgxx45s324x6cd6tyyup89765plwrlg4hexyk82dnydm0zy2r3pqyryv94": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyqu9ras8l5k03f76ye5007xr9dpg4y6p69epa6fmwyse5rkxr4psrwghrgufxxgut4f80ptqhhqcledfq69egftydeqgfe3qz": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q8mqcxwmn6jx4jswthhu72vcdm0ttae8ar0m6lru8nytlurzl93y52p72nmg7hyqyg06c630j9q7j76sfy0zct9d7mrs4z2qkw": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qxgwdjmcyxkh8t8rvp39c5r2pr3c6c7prhmx75gpgw9h69483tfr3jfxldw5wfzgr5wa7k8dmx3dg4l70kcpldx0z7yqw5vq0h": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q9z8exf6fjgrl8whr5ed58r078xkyltfzplcc5m60ew5pcthc7uufg5luvy3m2l3cfuzdf4y00wqat9tesn635l4tfasxehl8m": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qy7dr0xeg96l73feewrt35q7jgs2fe4grml6xf0xx5qwu9eywuhmr9eayfnnlqwhaee5lmmz6yl8046ntke3pa6jqfyshmjz6g": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q8a8hvf40pxsy40pw7qc8ve90l07e399ejxwmrfu9darnussu8h4nwg9ehvpldz7j2z95e38sqmj9dnfnvxgpjwfv69s6py9gr": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q8e7ksad3p5pahlra0590x2svs6y3wwa4d478wxca453vmtpng2ez9k6tgzts63nx8rjdk9rs78tfvkeqquukww8a4zqgqdz7t": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q8ul33qfgqdnwvrs9amvzw6y2s7c4ru8hvwgww7pszafjf0yk0l6ah4ldh8xadu2745584kaymrelcmv3ehd7xdqmlaq0hgykq": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qxad5nejptu04hjs9uz3d8ty0ry6z4g0ccwft4gexwwm28a7yw6r4t2chcv4l00mjqd5tx7d26lqwewc2arkgpcjrx8s3c65vq": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qxqhd2se8kpuzfzkn36fj0rj2tqwz0k7s67cja5d03yk56dpg0a2pfuqqst209hsm0h9g2ktnjuy3c0apvjylgf9z0hqzduk0s": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q89puh5gyyxtgzh2trycj9cjldr7drlpd888y6v8auhu2kgqt7x5jq3h7s0n5fjsh5l8ze3tv9ltvstkr9dghvsg53psx9pjvc": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q9ltemwmwff3ez6zrg8ysffm84vkgnnteu6u0rkphfs7kgq324x6cd6tyyup89765plwrlg4hexyk82dnydm0zy2r3pqlxu0th": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q9w27u9vtpw9z8xax6pljpfxauv4nvqetflz4e4vuwf7ma8tprq3ewgj6lt2yae4w0zww7pz720yk3psavz0upavsxkqrvmse6": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q8m48nspyu3rhrzem6zje7xd6phcrffmnmc59u8nlkfml0npdd6gtsapd2phtjwptutvtqv5ewswtm7mxq2wdyr20adsj5hupr": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q90alcsf7tfm58p9tuu2kwnyslr7pq8rsp850m2423p23nm86as7svk0amazuxe2hurlx95s56c7mg8var2a8nxsywqqvqejgt": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qy2vey022hjkc3dxzgk7wuk6rugpfdruwk8jckrxjawzj8sgrdfgd44fr6rhaq0t5292csesfqx30gka20kgdch3rmuq6z59a2": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qxsc287xd60geuarffslcfqtl9tgfmy55n9njn9patjry2hmpnw4thvr60tat5ddwcjr0098tfej2063kwam97eemjzsqdqptv": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyrms54n3x4d8ly6crjsnmddrc6s4ewdjtj0lqzar3ccn9af490w3pwhttnjehun4f2ez5twxna7ree9hds3h8jvwkeshmxnes": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q8vt3ygk4enclgxazkwgsl0ep36trn93x2kdaagzacvrzpq324x6cd6tyyup89765plwrlg4hexyk82dnydm0zy2r3pqdjp50k": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qys8nkv0qx8gphcqcp2ufw09gxwnkd9y8lxdlp9uva75e7yjlsulgj8sr2552vmz99z2k0cedg7wheg0lgkvv63g3cusytmud4": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyp5fyeltad6vsg76etzt6tqm6uh2x2pj39xmz6h5ansqsmpdd6gtsapd2phtjwptutvtqv5ewswtm7mxq2wdyr20adskduyja": [
+            {
+                "quantity": "13928571428",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyv205u8r3y9g4q2jjn0lqr0z5rhd63f26sp0t53vwwrukuxwfvmhdx428rrh8y32uvcdt8klkpw6n6yg5a4s5mvtxfqqyljfl": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q8p6lhpw8jtan04xuvrmm7vlrqu6505pqqz45690px8v5fhwz5uzagm3tpl3kc37ng7hhkc5tn022wc5kekf3wwpl48qvyg2gc": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qx74sfw2cjqdd5pgussqem4ycxrspwfgg4rzej7wajge30t86as7svk0amazuxe2hurlx95s56c7mg8var2a8nxsywqqcpd3fc": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q9rh60vp3ey9r58ru7j6sd7u8skyxlvjrg7xlnt0tm2rmerpdd6gtsapd2phtjwptutvtqv5ewswtm7mxq2wdyr20ads8mp2er": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q8xhjny2el2zyttmr99wumtsqep4x9fxx5e00q4jqdljhcnpdd6gtsapd2phtjwptutvtqv5ewswtm7mxq2wdyr20adszje53f": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q8qfcfz2y7jnvym9j8tafm5vygn407wupjkk30xgqq2cyf7es0z0jr45nsm7f04m2c68m4qhr2gjde3xf038g9t8kemqw55f8a": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q83v7cg9p9ekh86qkwv08jd07tvt7l4husjjhtpv4zteewu73ssf4cs64g4p7gkem3jwk2p54y8czuwp3lgacdlsw9qsavcgff": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyldranl8958289wqktneg89egqpwev800yw2zlvzl6h89n86as7svk0amazuxe2hurlx95s56c7mg8var2a8nxsywqqprwz79": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyz6va8hwwufgsmpju8gzhdmf7fjef9zztn94ac7kquftldf490w3pwhttnjehun4f2ez5twxna7ree9hds3h8jvwkesu2eceq": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qxctzxesc28qfvfqj9p3w6ev5vjyl8370pz72hj78gln0fqqt7x5jq3h7s0n5fjsh5l8ze3tv9ltvstkr9dghvsg53psky3nc6": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyazc2zgqacu4uhktn5cv9umu34jzmyr80x8sgkf2c0vcdw5eykm224k3q596m7sz9cdpg7hdkq6qrk2q32ptr27z8usefm9dt": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q8c6ezhc9vzrlt92lfvan09yx0jzzunr29ph9eaqycam6zzksx9z3v9g8xmqwytdyrj634347003r2thp928nca7wkls7ku9ee": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q80kp34auprdjf6kd8ldk0u8zthvh2d46zezgujhvuv69g92tkllcdhkcpda820vcyjf2hqdutrlypjhvd7qvq0zwlwq5pfvkw": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyajr9uqv29ataffrd0hyxvkppdu9pu0t8sehvav7lxlytvsthghwmxk4wxalx7cxt4jtehnkf26lcxt4s92n320mqksagx6ap": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qxsg35ex3swx8qfcsewndctmel76m9fsf2sc66d54wghsecyat4aecqpekj9tf97flthd4xhw50dkpsv9yfy3w9ugnxsmlv60k": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q97s7wtmpdvcnyr99j765srqn90ky2w9gxldv8g9wkmp0lqp2l2tjgn4hwqdulxf9dehmkdawmjuz5sc98uw5jw0plvqmf7mq5": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyr55s587a2lrec4x4xphe8lphn7yyx8uttxeqxa8fad3nraef06j2fuug0xkley3hugcknrxh0jrsulcfaltemkju4qv5vtwp": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q8sv3r9up6chvpq75sdjtqqja8m858zms6qu335af0a4nmjwxf34umqttqpt22fa8smax9j4kh8wry44vxgcj37s5s3ska5dnq": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qylpjj9ydydqfpnd9mms4sfdvlym5ljhe9drkz8sgmpn9c09dvednv33qwleutkahyngzuy3r3lu53wzj733wwa5z84sae2j9e": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyvsz56lju88ms8c32uz6usx7fj2x80kh9a042m6ftpre8v2s28hcqkz5aa96myd2y64mkygnjw05k33jveuk4qzhqsqlam6ds": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qxwcjcwp9cxktw8cdp26aq8w2n7k0rtdhanmkqt7kxmmznhycfm7tmxts0hxfns2vh82yzsx8dy5dtrq9knu0jr7cuuqpp5aad": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q8h6xqqyx9tknqrwqrahfxrr2plhc60nzhqnmvaz8na65n573ssf4cs64g4p7gkem3jwk2p54y8czuwp3lgacdlsw9qs6sey3e": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q97px9t0x085ncyhrffz0qcfrx4dwlvltj7mya9a0e4wplnpdd6gtsapd2phtjwptutvtqv5ewswtm7mxq2wdyr20adskh34la": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qxmy2xjg7hyzct88z2z2d6j6anlcuecyrey3vjkx5rus2gm86as7svk0amazuxe2hurlx95s56c7mg8var2a8nxsywqqjhhfw7": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qx2frmhz4696awuuxfrgz2m0p0cs44ydw45ms4vszc9pwt4k0g6z708kfykpevs6c8wlhcxlzr85qd0wwucj7xttqalsd8k34d": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q807elkpet25anl7pp53skmnx8tpghyexcp0tp9v4ekah2vaqhngkpkh9s0ttlusmlgnh37u3r8r0qlly9lqmg9nra6snur7f3": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qxh4cyaqkcpl7f9lflqmk04txada78jx85rg8sfwquyqk50suscn7nwj46mzenqwshu86eyfvvnmdckpndjrwpvj23eqsreqap": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qxht0zmyfrl70khy7cl8rce2q7hv228fu9xavsy4dg2pnpnpdd6gtsapd2phtjwptutvtqv5ewswtm7mxq2wdyr20adsvksvfy": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qy0h4d57n7papzwlfv4vvjm9yhvhaqelzg7hj9ed86kqrx64pvamcfsa3mfwwl2n5s9507yxyzk4a3yqgcnljh0r6yvqzep4rr": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qy4lzzwe056hm33e3k2v2r9896nv0r765uaa63lj88cljgnpdd6gtsapd2phtjwptutvtqv5ewswtm7mxq2wdyr20adsapf2kk": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q86uce29cjetwg2g3k4xk350jr3gf8xnryn5m20dgwlpt5vtlhjpatc0zryr2099njdmy08j0f6n7d089lw03y73j7tqdxjh82": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyu2082n2xjt5xsgx3xgx2f2ylfxrzuf5h3z84uzfxum34kj4t0pafu20rcy8hpegq69g52qzkqrv8p8nau69rrm84eqvkynnz": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q830y60qaac40l5tucwze8efgcv9929f63j4kh0zt5uj98tpdd6gtsapd2phtjwptutvtqv5ewswtm7mxq2wdyr20adslql388": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qy3hk785gguq8jsfl55vq9rl8lqmf5fmtn7w9z447udmgjaf490w3pwhttnjehun4f2ez5twxna7ree9hds3h8jvwkesa9pjh6": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1q8gxhjqrmm7gpturxvapla8v88hlg62wd4l49rlvpwzztch8f6p339mexvvkwfuwglfvl98tjfdv5kzvyh64dee5q3lqt3p07k": [
+            {
+                "quantity": "6964285714",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ]
+    }
+}
