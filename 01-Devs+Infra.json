@@ -1,0 +1,28 @@
+{
+    "type": "tx",
+    "title": "ADA Sending Demo",
+    "description": "A GameChanger Script Demo. https://gamechanger.finance/ . The output key allows you to define multi-asset transaction outputs. In Cardano assets are defined by a policyId and an assetName, for ADA we use 'ada' in both cases. Replace addresses to avoid donating us, but if you can, donate so we can keep building for you",
+    "outputs": {
+        "addr1q8h0zynj4pn8e864dqetlz2rjy3hfh6qqfcetj3jn96dfjtpdd6gtsapd2phtjwptutvtqv5ewswtm7mxq2wdyr20adsw3pu2k": [
+            {
+                "quantity": "365625000000",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyuy7axq2s540ngkyhlk9r84zmt73vgllydmtc4dcx8zu09f490w3pwhttnjehun4f2ez5twxna7ree9hds3h8jvwkes4g7q3c": [
+            {
+                "quantity": "365625000000",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ],
+        "addr1qyt63v87eq960xyulg3m84yvs8cf78ast7gp02anln4w8rkv2lhf3k07ytcr7cqfl96y8qv6z0q4mdlftweqejys3tassluyd4": [
+            {
+                "quantity": "146250000000",
+                "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+                "assetName": "ALDEA"
+            }
+        ]
+    }
+}
